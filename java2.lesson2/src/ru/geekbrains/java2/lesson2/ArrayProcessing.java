@@ -28,6 +28,7 @@ public class ArrayProcessing {
                 }
             }
         }
+        System.out.println("Сумма чисел массива равна: " + val);
     }
 
 
